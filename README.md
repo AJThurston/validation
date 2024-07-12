@@ -29,6 +29,7 @@ This dataset is intended for the instruction of advanced undergraduate or gradua
 
 ## Features
 
+- Responses to psychometric inventories are simulated from continuous distributions but formatted as Likert-type format (e.g., 1 = Strongly disagree; 5 = Strongly agree).
 - Relationships between most variables are consistent with real-world applications, for example, employee tenure and age are highly correlated.
 - Incumbent characteristics align with real-world data, for example, this sample of firefighters had a much higher representation of male employees and is more likely to be military veterans than the general population.
 - When possible, relationships between variables are simulated from on meta-analytic $\rho$ estimates.
