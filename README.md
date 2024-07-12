@@ -25,7 +25,7 @@ This dataset represents what may be collected in a predictive validation of a se
 - Interviewer ratings (3)
 - Latest annual performance rating
 
-Note, the description is purposefully vague on precise estiamtes (e.g., $R^{2}$ values) to prevent cheating, but estimates are available to verified faculty on request.
+Note, the description is purposefully vague on precise estimates (e.g., $R^{2}$ values) to prevent cheating, but estimates are available to verified faculty on request.
 
 ## Intended Usage
 
