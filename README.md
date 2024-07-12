@@ -1,10 +1,6 @@
 # Validation
 A simulated dataset to teach basic principals of selection system validation.
 
-AJ Thurston
-
-This work © 2024 by [Andrew J. Thurston](https://ajthurston.com) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 ![](firefighting.jpeg)
 
 ## Overview
@@ -51,3 +47,6 @@ This dataset is intended for the instruction of advanced undergraduate or gradua
 - A couple correlations between some demographics and psychometric inventories can be statistically significant, but are modest, this is an artifact of attempting to create precise adverse impact ratios.
 - Differential correlations, differential prediction, and Johnson-Neyman regions of significance have not been evaluated, but will be in the next iteration.
 - Year hired and tenure were simulated independently, so it's possible an employee could have been hired in 2024 with years of experience; a future version will ensure these are aligned logically.
+
+## License
+This work © 2024 by [Andrew J. Thurston](https://ajthurston.com) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
