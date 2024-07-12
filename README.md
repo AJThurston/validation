@@ -1,6 +1,8 @@
 # Validation
 A simulated dataset to teach basic principals of selection system validation.
 
+![](https://images.pexels.com/photos/14299430/pexels-photo-14299430.jpeg)
+
 AJ Thurston
 
 This work © 2024 by [Andrew J. Thurston](https://ajthurston.com) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
