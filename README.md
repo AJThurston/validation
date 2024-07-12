@@ -25,7 +25,7 @@ This dataset represents what may be collected in a predictive validation of a se
 - Interviewer ratings (3)
 - Latest annual performance rating
 
-Note, the description is purposefully vague on precise estiamtes (e.g., $\R^{2}$ values) to prevent cheating, but estimates are available to verified faculty on request.
+Note, the description is purposefully vague on precise estiamtes (e.g., $R^{2}$ values) to prevent cheating, but estimates are available to verified faculty on request.
 
 ## Intended Usage
 
@@ -36,8 +36,8 @@ This dataset is intended for the instruction of advanced undergraduate or gradua
 - Relationships between most variables are consistent with real-world applications, for example, employee tenure and age are highly correlated.
 - Incumbent characteristics align with real-world data, for example, this sample of firefighters had a much higher representation of male employees and is more likely to be military veterans than the general population.
 - When possible, relationships between variables are simulated from on meta-analytic $\rho$ estimates.
-- Creating a composite of job knowledge test scores to predict performance appraisal ratings results in a $\R^{2}$ of ~.1.
-- Creating the suggested selection battery to predict performance appraisal ratings results in a  $\R^{2}$ of >.3.
+- Creating a composite of job knowledge test scores to predict performance appraisal ratings results in a $R^{2}$ of ~.1.
+- Creating the suggested selection battery to predict performance appraisal ratings results in a  $R^{2}$ of >.3.
 - Expectancy charts clearly show a stronger relationship between the battery and job performance vice the job knowledge test alone.
 - Few mean differences in the predictors of the suggested selection battery result in mean differences when comparing males vs. females and white vs. all other racial/ethnic groups.
 - While there are some statistically significant differences by sex and race/ethnicity, few mean differences are practically significant and some cut in favor of protected classes.
